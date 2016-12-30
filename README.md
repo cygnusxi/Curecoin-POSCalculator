@@ -1,6 +1,4 @@
 Curecoin Proof-Of-Stake (POS) Calculator
-forked from 
-Peercoin Proof-Of-Stake (POS) Calculator
 ===
 
 Curecoins page
